@@ -18,10 +18,10 @@ is_student = False
 
 
 # Now it is your turn, fill in these variables with different data (maybe about you, but it doesn't have to be)
-age = 
-name = 
-height = 
-is_student = 
+age = 19
+name = "Zakiyah"
+height = 5.04
+is_student = True
 
 # We can also do aritmetic in Python, with variables or actual numbers
 age_in_five_years = age + 5
@@ -33,6 +33,6 @@ is_old_enough_to_drive = age >= 16
 
 
 # Your turn.  Create a comparison statement 
-
+can_buy_spray_paint = age >= 18
 
 #Finally, save this file, commit, and push to github
